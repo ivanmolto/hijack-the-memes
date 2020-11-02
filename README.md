@@ -4,5 +4,5 @@
 
 [Link to tweet with hashtags](https://twitter.com/ivanmolto/status/1323057173539205126)
 
-[Hijak the Meme)(https://github.com/ivanmolto/hijack-the-memes/blob/main/meme-tweet.png)
+[Hijak the Meme](https://github.com/ivanmolto/hijack-the-memes/blob/main/meme-tweet.png)
 
